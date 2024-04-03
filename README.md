@@ -6,6 +6,7 @@
 | Nome        | **Cordel Moderno**
 | Tecnologias | HTML, CSS
 | :rocket: URL         | https://edycarlossouza.github.io/Projeto-Cordel/
+| Curso | https://www.cursoemvideo.com/
 </div>
 <p>
 <strong>Detalhes do projeto</strong>
